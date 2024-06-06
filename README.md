@@ -1,2 +1,2 @@
-# HomeX-Satellite1
+# Satellite1
 A Private and Open Voice Assistant
