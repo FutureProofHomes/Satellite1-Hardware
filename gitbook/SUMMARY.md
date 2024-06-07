@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Getting Started](README.md)
-* [Unboxing](unboxing.md)
+* [Welcome to FutureProofHomes Satellite1.. huh](README.md)
