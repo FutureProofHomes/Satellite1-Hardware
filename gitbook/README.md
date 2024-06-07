@@ -1,3 +1,2 @@
-# Welcome to FutureProofHomes Satellite1
+# Getting Started
 
-I am testing gitbook documentation platform.
