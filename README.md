@@ -93,7 +93,7 @@ Put simply, your purchase helps fund our team and further innovation towards our
 - [ ] ESP32-S3 n16r8 SoC
 - [ ] Far-Field Microphone Array with Premium XMOS Noise Reduction and Echo Cancellation
 - [ ] XMOS Audio Processing
-- [ ] Power DAC capabile of 25W x 1 @ 8Ohm
+- [ ] Power DAC capable of 25W x 1 @ 8Ohm
 - [ ] DAC 3.5mm Headphone Line Out
 - [ ] Hardware Mute Button
 - [ ] Volume Up/Down & Action Buttons
