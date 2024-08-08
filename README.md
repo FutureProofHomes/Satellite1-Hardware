@@ -74,11 +74,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The Satellite1 is a completely private and and open-source voice assistant/multisensor with advanced audio processing and music streaming capabilities. It focuses on controlling your smart home via the [Home Assistant platform](https://www.home-assistant.io/) and their incredible [Assist voice control pipeline](https://www.home-assistant.io/voice_control/). With some extra GPU powered server and software you can even power your Satellite1 with your own local LLM.
+The Satellite1 is a completely private and and open-source voice assistant/multisensor with advanced audio processing and music streaming capabilities. It focuses on controlling your smart home via the [Home Assistant platform](https://www.home-assistant.io/) and their incredible [Assist voice control pipeline](https://www.home-assistant.io/voice_control/). With some extra GPU-power and software you can control your home via your own local AI/LLM.
 
 In Q4 2024 you will be able to purchase all the parts necessary to build your own Satellite1 at [FutureProofHomes.net](https://futureproofhomes.net).
 
-The Satellite1 is designed to sit on a desk and be used with the built-in speaker.  In 2025 we will introduce an official enclosure and a ceiling mount with high-powered amplifier so that the Satellite1 can be used with in-ceiling speakers.  We highly recommend the in-ceiling approach as the user-experience is amazing.
+The Satellite1 is designed to sit on a desk and be used with the built-in speaker or you can plug into external amplified speakers via the 3.5mm headphone jack.  In 2025 we will introduce an official enclosure and a stealth in-ceiling mount with a high-powered amplifier so that the Satellite1 can be used with in-ceiling speakers.  We highly recommend the in-ceiling approach as the user-experience is amazing.
 
 [![Satellite1][combo_render]](https://futureproofhomes.net/)
 <i>Enclosure w/ speaker mesh coming in 2025.</i>
@@ -86,19 +86,20 @@ The Satellite1 is designed to sit on a desk and be used with the built-in speake
 ## Why Open Source?
 The Satellite1 is a powerful device - and with great power, comes great responsibility.  We believe it would be irresponsible to ask our customers to **_trust_** that our hardware and software protect your privacy.  Instead, you can audit the product yourself.  You can also build with us!  Please contribute to the project (and perhaps even join the team).
 
+NOTE: All firmware and schematics will be be open-source upon launch.  The actual Kicad project files will operate under a delayed open source model ([DOSP](https://opensource.org/delayed-open-source-publication)) to ensure the FutureProofHomes team can keep the lights on.  Thanks for your understanding as we get some wind beneath our wings!  
+
 ## Why Purchase from FutureProofHomes?
-Put simply, your purchase helps fund our team and further innovation towards our roadmap.  Also, purchasing from us ensures you get top-quality products that are tested, fully-functional, in stock (as often as possible) and provide community leadership.  You can purchase Satellite1 components individually, or purchase the entire devkit as a package.  Help us, help you!
+Put simply, your purchase helps fund our team and further innovation towards our roadmap.  Also, purchasing from us ensures you get top-quality products that are tested, fully-functional, in-stock (as often as possible) and received community leadership.  You can purchase Satellite1 components individually, or purchase the entire devkit as a package.  Help us, help you!
 
 ## Key Hardware Features
 - [ ] ESP32-S3 n16r8 SoC
-- [ ] Far-Field Microphone Array with Premium XMOS Noise Reduction and Echo Cancellation
-- [ ] XMOS Audio Processing
+- [ ] Far-Field Microphone Array with Premium XMOS XU316 Noise Reduction and Echo Cancellation
 - [ ] Power DAC capable of 25W x 1 @ 8Ohm
 - [ ] DAC 3.5mm Headphone Line Out
 - [ ] Hardware Mute Button
 - [ ] Volume Up/Down & Action Buttons
 - [ ] 12 NeoPixel LEDs
-- [ ] Temperature/Humidity/Light Sensor on board
+- [ ] Temperature/Humidity/Light Sensor on-board
 - [ ] USB-C Power Delivery for easy power input
 - [ ] Expandable GPIO for Hackability and Additional Functionality
 
@@ -130,7 +131,7 @@ Put simply, your purchase helps fund our team and further innovation towards our
 ## Getting Started
 
 - [Docs.FutureProofHomes.net](https://docs.futureproofhomes.net) is going live soon.
-- [FutureProofHomes.net](https://futureproofhomes.net) main website is live and more info and stock is coming in soon!
+- [FutureProofHomes.net](https://futureproofhomes.net) main website is live and more info and product stock are coming in soon!
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps. -->
